@@ -1,4 +1,4 @@
-# Deep-Learning-in-6-weeks---Siraj
+
 Re-implementation of programs for ciriculam provided by Siraj Raval 
 
 # Learn_Deep_Learning_in_6_Weeks
